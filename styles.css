@@ -1,1 +1,18 @@
-/*  your css code here. If applicable */
+body{
+	background: #f5f5f5;
+}
+div{
+	position: relative;
+	margin: 10px 10px;
+	background: white;
+	padding: 5px 10px;
+}
+.author{
+	display: block;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+p{
+	margin: 5px 0px;
+}
